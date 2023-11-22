@@ -13,8 +13,8 @@
 <details>
   <summary>Contact me</summary>
   
-  Email: ziadh.business@gmail.com .
+  Reach out via email: ziadh.business@gmail.com .
   
-  LinkedIn: https://www.linkedin.com/in/ziadhassan7
+  Or LinkedIn: https://www.linkedin.com/in/ziadhassan7
   
 </details>
