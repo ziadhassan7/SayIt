@@ -12,6 +12,7 @@
 
 <details>
   <summary>Contact me</summary>
+  
   You can reach me through my email: ziadh.business@gmail.com
   Or through my LinkedIn: https://www.linkedin.com/in/ziadhassan7
 </details>
