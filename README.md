@@ -17,9 +17,7 @@ This is an old application released late 2018.
 
 .
 
-[FlipStreak - Case Study.pdf](https://github.com/ziadhassan7/SayIt/files/13461749/FlipStreak.-.Case.Study.pdf)
-
-[FlipStreak - Case Study-1.pdf](https://github.com/ziadhassan7/SayIt/files/13461759/FlipStreak.-.Case.Study-1.pdf)
+![Carex Template](https://github.com/ziadhassan7/SayIt/assets/31738365/021546ec-7023-4c80-9eea-cb3414342362)
 
 .
 
