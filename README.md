@@ -7,6 +7,16 @@ This is an old application released late 2018.
 # Case Study 
 ![SayIt - Case Study](https://github.com/ziadhassan7/SayIt/assets/31738365/a7767cfe-9214-4a56-872a-c3049db58064)
 
+.
+
+![FlipStreak - Case Study](https://github.com/ziadhassan7/SayIt/assets/31738365/082ae2fe-b6d1-4572-8005-fba794303024)
+
+.
+
+![FlipStreak - Case Study-1](https://github.com/ziadhassan7/SayIt/assets/31738365/953d1526-c713-4a28-adbe-a55aed00c768)
+
+.
+
 
 <details>
   <summary>Contact me</summary>
