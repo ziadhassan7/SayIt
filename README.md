@@ -17,6 +17,12 @@ This is an old application released late 2018.
 
 .
 
+[FlipStreak - Case Study.pdf](https://github.com/ziadhassan7/SayIt/files/13461749/FlipStreak.-.Case.Study.pdf)
+
+[FlipStreak - Case Study-1.pdf](https://github.com/ziadhassan7/SayIt/files/13461759/FlipStreak.-.Case.Study-1.pdf)
+
+.
+
 
 <details>
   <summary>Contact me</summary>
