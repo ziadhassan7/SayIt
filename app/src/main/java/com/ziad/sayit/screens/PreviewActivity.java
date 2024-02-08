@@ -69,7 +69,7 @@ import static com.ziad.sayit.ImageHandler.centerWidthValue;
 public class PreviewActivity extends AppCompatActivity implements UpdateGraphicViews,
         TextToSpeech.OnInitListener, GestureDetector.OnGestureListener{
 
-    //
+    //Look
     public static final int REQUEST_CODE_PERMISSIONS = 10;
     public static final String[] REQUIRED_PERMISSIONS = {android.Manifest.permission.CAMERA};
 
