@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "717291504941",
+    "firebase_url": "https://say-it-e08aa.firebaseio.com",
+    "project_id": "say-it-e08aa",
+    "storage_bucket": "say-it-e08aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717291504941:android:800d946b2a232d86",
+        "android_client_info": {
+          "package_name": "com.ziad.sayit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717291504941-6n6edphnludt9t6ojsitqmqg32babjgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziad.sayit",
+            "certificate_hash": "729d0b6596a3f443fb2c77aede82c102d2f650a2"
+          }
+        },
+        {
+          "client_id": "717291504941-gupglok8j3glrulep6p0eacdsda7dt25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCnQx7M6p2uxr9yqhfWSBosnqp1xPOM7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717291504941-gupglok8j3glrulep6p0eacdsda7dt25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#40528E</color> <!-- #2F448A #2D3080 -->
+    <color name="colorPrimaryDark">@color/colorPrimary</color>
+    <color name="colorAccent">@color/colorPrimary</color>
+
+    <color name="colorPrimary_darkTheme">#BCBCBC</color>
+    <color name="colorBackground_darkTheme">#313131</color>
+    <color name="colorIcon_darkTheme">@color/colorPrimary_darkTheme</color>
+    <color name="colorStatus_darkTheme">@color/colorBackground_darkTheme</color>
+
+
+    <color name="colorIcon">@color/colorPrimary</color>
+
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorStatus">@color/colorBackground</color> <!-- #C2C2C2 -->
+    <color name="colorStatus_oldApi">@color/colorPrimary</color>
+    <color name="colorBottomBar">@color/colorBackground</color>
+</resources>
